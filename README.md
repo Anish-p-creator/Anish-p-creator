@@ -9,7 +9,7 @@
 </p>
 
 ### About me
-- 🎓 B.Tech CSE at VIT Vellore (2024–2028), CGPA 9.19
+- 🎓 B.Tech CSE at VIT Vellore (2024–2028)
 - 🏥 DevOps intern @ TrackerWave: monitored 11 containerized services on Azure with Prometheus, Grafana and Jenkins CI/CD
 - 🔬 AI R&D intern @ Zuntra Digital
 - 🏆 1st Prize, CODE 2 CHANGE Hackathon • Top 30 at VIT, SIH 2026 (Team Lead) • Published research paper
